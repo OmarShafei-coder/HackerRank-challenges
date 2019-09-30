@@ -1,2 +1,2 @@
 # HackerRank-challenges
-Solution for some problems in java, and maybe C
+Each project folder has the problem in PDF file, and the solution file.
